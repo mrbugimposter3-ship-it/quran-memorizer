@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- green + coffee palette -->
+    <color name="espresso">#201810</color>
+    <color name="forest">#0F1E14</color>
+    <color name="dark_green">#1A2A1C</color>
+    <color name="emerald">#3FBF7F</color>
+    <color name="leaf">#86D94C</color>
+    <color name="cream">#E7C873</color>
+    <color name="caramel">#C07A5A</color>
+    <color name="terracotta">#C98A5B</color>
+    <color name="olive">#8FA35A</color>
+    <color name="warm_red">#E05A4E</color>
+    <color name="card">#2B2318</color>
+    <color name="card_hi">#3C3222</color>
+    <color name="text_primary">#F2E8D5</color>
+    <color name="text_secondary">#A6977C</color>
+    <color name="white">#FFFFFF</color>
+</resources>

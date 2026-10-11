@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QuranMemorizer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/emerald</item>
+        <item name="colorPrimaryVariant">@color/dark_green</item>
+        <item name="colorOnPrimary">@color/espresso</item>
+        <item name="colorSecondary">@color/leaf</item>
+        <item name="colorSecondaryVariant">@color/olive</item>
+        <item name="colorOnSecondary">@color/espresso</item>
+        <item name="android:colorBackground">@color/espresso</item>
+        <item name="colorSurface">@color/card</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/forest</item>
+        <item name="android:navigationBarColor">@color/forest</item>
+        <item name="android:windowBackground">@color/espresso</item>
+    </style>
+</resources>

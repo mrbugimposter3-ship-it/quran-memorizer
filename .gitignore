@@ -1,0 +1,24 @@
+# ---- Desktop (Swing) build output ----
+desktop/out/
+desktop/*.class
+desktop/MemoriBlitz.jar
+
+# ---- Android build output ----
+android/build/
+android/.gradle/
+android/app/build/
+android/.idea/
+android/*.iml
+android/local.properties
+*.apk
+*.aab
+
+# ---- IDE / OS ----
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- misc ----
+*.log

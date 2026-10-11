@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QuranMemorizer">
+
+        <activity android:name=".PasscodeActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity" android:exported="false" />
+
+        <activity android:name=".SelectActivity" android:exported="false" />
+        <activity android:name=".ReaderActivity" android:exported="false" />
+        <activity android:name=".TestActivity" android:exported="false" />
+        <activity android:name=".MatchActivity" android:exported="false" />
+        <activity android:name=".FlashActivity" android:exported="false" />
+        <activity android:name=".FillActivity" android:exported="false" />
+        <activity android:name=".ReciteActivity" android:exported="false" />
+        <activity android:name=".OrderActivity" android:exported="false" />
+        <activity android:name=".NextActivity" android:exported="false" />
+        <activity android:name=".ArabicActivity" android:exported="false" />
+        <activity android:name=".ReverseActivity" android:exported="false" />
+        <activity android:name=".PairActivity" android:exported="false" />
+        <activity android:name=".InitialsActivity" android:exported="false" />
+        <activity android:name=".SpeedActivity" android:exported="false" />
+        <activity android:name=".GridActivity" android:exported="false" />
+        <activity android:name=".FillArActivity" android:exported="false" />
+        <activity android:name=".JumbleActivity" android:exported="false" />
+        <activity android:name=".VsAiActivity" android:exported="false" />
+        <activity android:name=".VerseBuildActivity" android:exported="false" />
+        <activity android:name=".UrduActivity" android:exported="false" />
+        <activity android:name=".RevealActivity" android:exported="false" />
+        <activity android:name=".WordActivity" android:exported="false" />
+        <activity android:name=".SupplementaryActivity" android:exported="false" />
+        <activity android:name=".MixActivity" android:exported="false" />
+        <activity android:name=".OddOneActivity" android:exported="false" />
+        <activity android:name=".WordCountActivity" android:exported="false" />
+        <activity android:name=".EdgeWordActivity" android:exported="false" />
+        <activity android:name=".NextWordActivity" android:exported="false" />
+        <activity android:name=".PartialActivity" android:exported="false" />
+        <activity android:name=".En2UrActivity" android:exported="false" />
+        <activity android:name=".Ur2EnActivity" android:exported="false" />
+        <activity android:name=".Ur2ArActivity" android:exported="false" />
+        <activity android:name=".Ar2TrActivity" android:exported="false" />
+        <activity android:name=".SurahInfoActivity" android:exported="false" />
+        <activity android:name=".WhereSurahActivity" android:exported="false" />
+        <activity android:name=".WhereJuzActivity" android:exported="false" />
+        <activity android:name=".WherePageActivity" android:exported="false" />
+        <activity android:name=".WhereAyahActivity" android:exported="false" />
+        <activity android:name=".StoryActivity" android:exported="false" />
+    </application>
+
+</manifest>
