@@ -23,3 +23,5 @@ Thumbs.db
 # ---- misc ----
 *.log
 release/
+..release/
+*/.release/
